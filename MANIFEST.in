@@ -1,0 +1,3 @@
+
+recursive-include sqlalchemy_oushudb *
+include README.md
